@@ -1,6 +1,6 @@
 # litho_identification
 
-This repository includes the Master's thesis code of Nataly Chacon Buitrago, focused on lithology identification of point clouds from geological outcrops. 
+This repository includes my Master's thesis code! Focused on lithology identification of point clouds from geological outcrops. 
 
 ![](/gaspe.png "Point cloud of the turbidites of the Cloridorme formation in the Gaspe Peninsula in Canada")
 
